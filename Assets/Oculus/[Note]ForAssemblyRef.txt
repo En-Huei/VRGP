@@ -1,0 +1,1 @@
+Previously Create a "MyOculusAssembly" .asmdef(assembly definition) file here to separate Oculus from Assembly-Csharp dll recompilation
