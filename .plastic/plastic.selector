@@ -1,4 +1,0 @@
-repository "VRGP@chia_ryanfan@cloud"
-  path "/"
-    br "/main"
-    co "/main"
