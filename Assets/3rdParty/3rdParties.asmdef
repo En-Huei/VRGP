@@ -1,3 +1,19 @@
 {
-	"name": "3rdParties"
+    "name": "3rdParties",
+    "rootNamespace": "",
+    "references": [
+        "Unity.InputSystem",
+        "Unity.InputSystem.ForUI",
+        "Unity.InputSystem.TestFramework",
+        ""
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
