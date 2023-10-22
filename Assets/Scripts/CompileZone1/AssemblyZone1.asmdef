@@ -6,7 +6,8 @@
         "UnityEngine.UI",
         "UnityEditor.UI",
         "UnityEngine.UI.Tests",
-        "Unity.InputSystem"
+        "Unity.InputSystem",
+        "Unity.XR.Interaction.Toolkit"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
