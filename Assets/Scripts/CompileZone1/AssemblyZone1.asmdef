@@ -1,7 +1,13 @@
 {
     "name": "AssemblyZone1",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEngine.UI",
+        "UnityEditor.UI",
+        "UnityEngine.UI.Tests",
+        "Unity.InputSystem"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
